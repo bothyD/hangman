@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/test_hangman.dir/test/test_hangman.c.o CMakeFiles/test_hangman.dir/src/hangman.c.o -o bin/test_hangman  -lcmocka 

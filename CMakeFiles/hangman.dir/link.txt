@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/hangman.dir/src/main.c.o CMakeFiles/hangman.dir/src/hangman.c.o -o bin/hangman 

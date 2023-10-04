@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "hangman.h": "c",
+        "stdio.h": "c",
+        "ctype.h": "c",
+        "string.h": "c"
+    }
+}

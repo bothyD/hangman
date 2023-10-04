@@ -1,0 +1,5 @@
+/home/pavlo/7semak/hangman/CMakeFiles/hangman.dir
+/home/pavlo/7semak/hangman/CMakeFiles/test_hangman.dir
+/home/pavlo/7semak/hangman/CMakeFiles/test.dir
+/home/pavlo/7semak/hangman/CMakeFiles/edit_cache.dir
+/home/pavlo/7semak/hangman/CMakeFiles/rebuild_cache.dir
